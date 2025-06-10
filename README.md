@@ -1,2 +1,2 @@
-# customer_churn
+# Banking Customer Churn Prediction
 Customer churn prediction in Databricks 
